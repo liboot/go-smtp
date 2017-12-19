@@ -13,7 +13,7 @@ import (
 	"net/textproto"
 	"strings"
 
-	"github.com/emersion/go-sasl"
+	"github.com/liboot/go-sasl"
 )
 
 // A Client represents a client connection to an SMTP server.
