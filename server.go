@@ -7,7 +7,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/emersion/go-sasl"
+	"github.com/liboot/go-sasl"
 )
 
 // A function that creates SASL servers.
